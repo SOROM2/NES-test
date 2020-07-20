@@ -1,3 +1,4 @@
+; code from: https://www.youtube.com/watch?v=JgdcGcJga4w
 .segment "HEADER"
     .byte "NES"
     .byte $1a
